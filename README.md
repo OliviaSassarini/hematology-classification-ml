@@ -42,16 +42,7 @@ The project included:
 - Class imbalance was addressed through weighted classification techniques.
 - Performance was evaluated using Accuracy, F1 Score, and ROC-AUC metrics. 
  
-## Visualisations
- 
-### PCA Projection
 
-<img width="488" height="349" alt="fig4" src="https://github.com/user-attachments/assets/160902c0-d7da-4ea3-adbe-c9f100bdea7f" />
- 
-### ROC Curve Comparison
-<img width="428" height="355" alt="fig7" src="https://github.com/user-attachments/assets/4c69a12b-38b8-4c1b-95e9-00a2c7d793d3" />
- 
- 
 ## Technologies Used
  
 - Python
