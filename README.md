@@ -26,7 +26,7 @@ The project included:
 - Principal Component Analysis (PCA)
 - Logistic Regression (implemented from scratch)
 - K-Nearest Neighbours (implemented from scratch)
-- Support Vector Machine (SVM) modelling 【1-43d450】
+- Support Vector Machine (SVM) modelling 
  
 ## Dataset
  
